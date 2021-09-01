@@ -1,1 +1,2 @@
-# wicked_problems
+# Wicked Problems
+## Grace Yoon
