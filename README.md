@@ -3,4 +3,4 @@
 ### **Grace Yoon**
 #### *Freshman Computer Science Student at The College of William & Mary*
 ---
-![](GraceYoon.jpg | width=100)
+![](GraceYoon.jpg)
