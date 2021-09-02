@@ -1,4 +1,4 @@
 # Wicked Problems (DATA 100)
 
 **Grace Yoon**
-*Freshman student at The College of William & Mary*
+*Freshman Computer Science Student at The College of William & Mary*
