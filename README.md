@@ -1,6 +1,6 @@
-# Wicked Problems (DATA 100)
+# Wicked Problems (DATA 100) <img align="right" alt="drawing" src="GraceYoon.jpg" width="28%" height="28%">
 
-### Grace Yoon <img align="right" alt="drawing" src="GraceYoon.jpg" width="28%" height="28%">
+### Grace Yoon 
 #### *Computer Science Student at The College of William & Mary*
 ---
 
