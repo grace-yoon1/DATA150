@@ -12,6 +12,6 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 [Joshua Blumenstock](Blumenstock.md)
 
-[Rosling](Rosling.md)
+[Hans Rosling](Rosling.md)
 
 ### Formal Assignments
