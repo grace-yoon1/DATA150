@@ -10,8 +10,8 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 ### Informal Responses
 [1.4 Getting Started with R & RStudio](1.4.md)
 
-[Joshua Blumenstock](Blumenstock.md)
+September 5th - [Joshua Blumenstock](Blumenstock.md)
 
-[Hans Rosling](Rosling.md)
+September 9th - [Hans Rosling](Rosling.md)
 
 ### Formal Assignments
