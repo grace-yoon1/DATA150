@@ -1,5 +1,7 @@
 [Back to Home Page](https://grace-yoon1.github.io/DATA150/)
 
+### [Don't forget people in the use of big data for development](https://www.nature.com/articles/d41586-018-06215-5)
+
 Joshua Blumenstock states that a humbler data science could transform international development while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promise, pitfalls, and ways forward Blumenstock uses as the foundation for his thesis. Additionally, consider the following statements from three of your classmates regarding this article. 
 
 1. "Good intent is not enough in data science when dealing with the problems which determine people's experiences" Anna Raymond 
