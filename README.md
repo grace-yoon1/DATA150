@@ -15,12 +15,12 @@ September 7th - [Joshua Blumenstock](Blumenstock.md)
 September 9th - [Hans Rosling](Rosling.md)
 
 ### Formal Writing Assignments
-[Assignment 1: Annotated Bibliography]()
+[Annotated Bibliography]()
 
-[Assignment 2: Literature Review]()
+[Literature Review]()
 
-[Assignment 3: Methodological Investigation]()
+[Methodological Investigation]()
 
-[Assignment 4a: Presentation]()
+[Presentation]()
 
-[Assignment 4b: Research Proposal]()
+[Research Proposal]()
