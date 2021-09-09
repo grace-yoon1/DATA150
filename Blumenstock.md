@@ -6,4 +6,6 @@ Joshua Blumenstock states that a humbler data science could transform internatio
 
 2. "Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results." Nira Nair 
 
-3. "In lieu of such drastic potential for promoting applications yet demoralizing hinderances, the balancing act can become difficult." Kayla Seggelke How do you respond to these ideas regarding "good intent", "transparency" and the difficult "balancing act" when considering the intersection of human development with data science? Please prepare your response for next Thursday's class.
+3. "In lieu of such drastic potential for promoting applications yet demoralizing hinderances, the balancing act can become difficult." Kayla Seggelke 
+
+How do you respond to these ideas regarding "good intent," "transparency," and the difficult "balancing act" when considering the intersection of human development with data science?
