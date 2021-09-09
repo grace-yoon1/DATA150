@@ -1,5 +1,4 @@
 # Evolving Solutions: Human Development/Data Science 
-# (DATA 150) 
 
 ### Grace Yoon 
 #### *Computer Science Student at The College of William & Mary* <img align="right" alt="drawing" src="GraceYoon.jpg" width="28%" height="28%"> 
