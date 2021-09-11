@@ -29,3 +29,4 @@ Rosling uses data to describe global human development and displays it in a grap
 
 **In your opinion, why was Hans Rosling’s work with the Gapminder project significant in contributing towards advancing the intersection of data science and global human development?**
 
+Hans Rosling’s work with the Gapminder project is significant because it links data and design to create databases that are useful for advancing the intersection of data science and global development. It is important to be able to access this information easily to stay informed and have a greater understanding of global human development in the world. I believe Rosling’s work is significant because it allows the data to be transparent, which is useful for collaborating with data. 
