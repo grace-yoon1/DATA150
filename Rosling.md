@@ -9,6 +9,8 @@ Hans Rosling did a pretest with his students at the Karolinska Institute by havi
 
 #### What type of change took place in Asia that preceded economic growth? Why was this type of change significant?
 
+In Asia, improvement in health and social change preceded economic growth. The size of families varied in industrialized countries compared to developing countries. In 1962, industrialized countries had small families and long lives, while developing countries had huge families and shorter life expectancies. Since 1962, these countries moved towards smaller families leading to longer lives. This transition from larger families to smaller ones developed a completely new world, changing economic and social growth tremendously. 
+
 #### In accordance with Hans Rosling’s TED talk, what is the relationship between child mortality and GDP per capita?
 
 #### In terms of income distribution, how has the world changed from 1962 until 2003?
