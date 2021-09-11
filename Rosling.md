@@ -13,6 +13,8 @@ In Asia, improvement in health and social change preceded economic growth. The s
 
 #### In accordance with Hans Rosling’s TED talk, what is the relationship between child mortality and GDP per capita?
 
+According to Hans Rosling’s TED talk, there is a strong linear relationship between child mortality and GDP per capita. As the rate of child survival increases, GDP per capita increases as well. This supports his objective that the improvement of health in a country will allow the population to flourish economically. 
+
 #### In terms of income distribution, how has the world changed from 1962 until 2003?
 
 #### What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions? How does this relate to his previous observation regarding preconceived ideas?
