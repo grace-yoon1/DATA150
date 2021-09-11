@@ -18,6 +18,8 @@ According to Hans Rosling’s TED talk, there is a strong linear relationship be
 
 
 **In terms of income distribution, how has the world changed from 1962 until 2003?**
+ 
+In 1962, there was a divide between the developing countries and industrialized countries. As time passed, the income distribution of the countries has become more balanced and centered and the economies have grown.
 
 
 **What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions? How does this relate to his previous observation regarding preconceived ideas?**
