@@ -25,5 +25,7 @@ In 1962, there was a divide between the developing countries and industrialized 
 **What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions? How does this relate to his previous observation regarding preconceived ideas?**
 
 
+Rosling uses data to describe global human development and displays it in a graph to visualize it temporally. In terms of very high spatial resolution, he explains that there are a lot of differences in data within a country, which makes it dangerous to use averages. Global human development needs to be highly contextualized and the general population needs to communicate and stay informed on development in detail, rather than using averages.
+
 **In your opinion, why was Hans Rosling’s work with the Gapminder project significant in contributing towards advancing the intersection of data science and global human development?**
 
