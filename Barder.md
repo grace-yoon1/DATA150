@@ -8,4 +8,4 @@
 **According to Barder, how successful have economic models been at describing and predicting growth over the past 50 years?  How did he use the Harrod-Domar model, the Solow model, the Washington consensus, and the Ajoakuta Steel works to illustrate his point (reference at least two of the above).**
 
 
-**
+**Who was Steve Jones? What did he do at uni-lever? Was he successful?  Specifically, what did he do in order to make an evolutionary jump forward?  How significant were his results?**
