@@ -9,3 +9,7 @@
 
 
 **Who was Steve Jones? What did he do at uni-lever? Was he successful?  Specifically, what did he do in order to make an evolutionary jump forward?  How significant were his results?**
+
+**Who was Haile Sellasie?  What is the significance of Kapuscinski’s book, The Emporer?  According to Barder, how did Ethiopia exemplify the suppression of emergent systemic change?  How do you think Sen would have described this suppression? Do you agree?**
+
+
