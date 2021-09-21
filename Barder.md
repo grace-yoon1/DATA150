@@ -1,6 +1,6 @@
 [Back to Home Page](https://grace-yoon1.github.io/DATA150/)
 
-### [Development & Complexity - Owen Barder](https://youtu.be/02EZPxPcFqs)
+### [Development & Complexity](https://youtu.be/02EZPxPcFqs)
 
 **What was the toaster project? What did Thomas Thwaites attempt to do? Was he successful and what is the significance of this example in the context of complexity and development?**
 
