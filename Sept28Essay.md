@@ -1,3 +1,5 @@
+[Back to Home Page](https://grace-yoon1.github.io/DATA150/)
+
 9/28 class essay: I'd like to get to know you better. What is your general background---in a few sentences, what do you want me to know about you? What are your interests academically, intellectually, or professionally? Basically, what do you care about (no wrong answers here)? What do you think data science is? Based on your conception of data science, in a very broad sense, how (if at all) do you think it can be harnessed to improve the lives of people (their quality of life), the environment, our understanding of ourselves or nature, business & economics, everyday problem solving, or anything else?
 
 My name is Grace Yoon and I am a freshman at William and Mary. I plan on majoring in Computer Science. I am from Northern Virginia and I was born and raised there. I enjoy taking my cockapoo on walks, hanging with friends, and playing the bassoon. I have leadership skills from being a drum major in high school. Also, I worked at Code Ninjas, where I teach children 5-14 how to code. Being involved in the Computer Science field has made me love Computer Science even more. 
