@@ -24,6 +24,8 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [9/28 Class Essay](Sept28Essay.md)
 
+- [9/30 Gapminder Essay](Sept30Gapminder.md)
+
 ---
 
 ### Formal Writing Assignments
