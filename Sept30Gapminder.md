@@ -1,3 +1,7 @@
+[Back to Home Page](https://grace-yoon1.github.io/DATA150/)
+
+### [Gapminder](https://www.gapminder.org/tools/#$model$markers$bubble$encoding$size$data$concept=life_expectancy_years&space@=country&=time;;&scale$domain:null&type:null&zoomed:null;;&y$data$space@=country&=time;;&scale$domain:null&zoomed:null&type:null;;&x$scale$zoomed@:300&:180000;;;;;;;&chart-type=bubbles&url=v1)
+
 9/30 essay: Go to the Gapminder data site (founded by Hans Rosling). The x and y axes can be changed with the little arrows. The year can be changed with the slider at the bottom. You can even have the plot play through time. Each bubble represents a nation and can be selected and deselected in the right panel. There's a two-minute "How to" video at the top as well.
 
 Pick at least one configuration (life expectancy vs income in the UK and Cuba over the past 80 years, for example). Try any combination(s) you like (no wrong answers here). Write what data you are displaying. Write about what you see or what surprises you, if anything. As best you can, connect what you see to ideas in previous readings from Rosling, West, Sen, another course, or from your experience.
