@@ -22,6 +22,7 @@ The article, “How Data Science Can Give Further Understanding on Urban Poverty
 
 This article relates to Amartya Sen’s definition of human development because both discuss using phases of analysis in data to enhance our understanding of freedoms and unfreedoms a population has. By the author’s research, strategies to find the best way to alleviate poverty are being addressed. Freddy Fashridjal explains how analysis and experimentation can lead us closer to sustainable development goals for the lives of these undeveloped areas. Fashridjal uses datasets from GIS and gathers closely related data to investigate the best strategies in the different experiments to understand areas deeply in data exploration.
 
+---
 
 #### [Article 2](https://www.worldpop.org/portfolio/project?id=22)
 
@@ -31,6 +32,7 @@ Poverty is a significant harm to countries all over the world. It causes humans 
 
 This article, “High Resolution Progress out of Poverty Mapping,” relates to what Amartya Sen has mentioned about human development in his book, “Development as Freedom.” Amartya Sen’s definition of human development discusses how analyzing and assessing poverty can enhance the lives we lead and the freedoms we enjoy. Knowing where areas, like those in India, are not as developed can allow us to use freedoms to further develop and remove the unfreedom of low income. From the unfreedom of low income, the people in poverty in India may be illiterate, have bad health, suffer from hunger, etc., which is why they are deprived of basic capabilities. The authors, from the Bill and Melinda Gates Foundation, address human development dimensions of the standard of living, discussing ways to access areas in the world of poor health, hunger, etc. from poverty. In relation to this article on poverty mapping, I believe tools like the PPI can be used to reach the sustainable goal of locating areas in need, providing them freedoms in order to develop as a whole. The authors investigated population numbers below the PPI poverty line and uncertainty range inset. They predicted the PPI index in Uttar Pradesh and Bihar in India, with an uncertainty map inset as well. From the article, the authors are seeking to answer an efficient way to solve main health and welfare challenges and to know where poverty is greatest. 
 
+---
 
 #### [Article 3](https://www.worldpop.org/portfolio/project?id=23)
 
@@ -40,6 +42,7 @@ To end poverty, it is necessary to gain knowledge and information about areas su
 
 This article relates to Amartya Sen’s definition of human development because it discusses using data science to alleviate poverty, which is an unfreedom that Amartya Sen mentions. Development is the process of expanding human freedoms and by obtaining information about these poorer areas, actions and policies can be made to allow these countries to reach this developmental freedom. The process of development, when judged by the enhancement of human freedom, has to include the removal of an individual’s deprivation such as poverty. Living a long and healthy life by having access to knowledge and a decent standard of living is what allows a country to flourish and alleviate poverty. The authors of this article discuss how these data science methods can be useful to analyzing poverty closely in countries and areas like India and Bangladesh.
 
+---
 
 #### [Article 4](https://towardsdatascience.com/how-to-understand-global-poverty-from-outer-space-442e2a5c3666)
 
