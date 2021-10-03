@@ -12,6 +12,8 @@ Word count: 1,814
 
 ### Annotated Bibliography: Poverty Assessment and Analysis in India
 
+---
+
 #### [Article 1](https://towardsdatascience.com/how-data-science-can-give-further-understanding-on-urban-poverty-ab52e448913)
 
 Fashridjal, Freddy. “How Data Science Can Give Further Understanding on Urban Poverty.” Towards Data Science, 13AD, https​://towardsdatascience.com/how-data-science-can-give-further-understanding-on-urban-poverty-ab52e448913. 
