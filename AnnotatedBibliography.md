@@ -14,7 +14,7 @@ Word count: 1,814
 
 #### [Article 1](https://towardsdatascience.com/how-data-science-can-give-further-understanding-on-urban-poverty-ab52e448913)
 
-Fashridjal, Freddy. “How Data Science Can Give Further Understanding on Urban Poverty.” Towards Data Science, 13AD, https://towardsdatascience.com/how-data-science-can-give-further-understanding-on-urban-poverty-ab52e448913. 
+Fashridjal, Freddy. “How Data Science Can Give Further Understanding on Urban Poverty.” Towards Data Science, 13AD, https​://towardsdatascience.com/how-data-science-can-give-further-understanding-on-urban-poverty-ab52e448913. 
 
 Data science allows us to make predictions and get insights on significant harms of development problems, like poverty. The same technology that real-time analytics companies use to understand consumer behavior can also be used to understand complex human development problems such as individuals in need with urban poverty. There are two types of poverty: absolute poverty is being deprived of basic needs and capabilities, while relative poverty is the inability to attain a decent standard of living. In developing countries, like India, poverty is in areas with larger populations that lack enough resources to gain financial security. While organizations, institutions, and governments have attempted to diminish poverty, most have been unsuccessful in these underdeveloped areas. However, data science can be used to seek insights and predictions that are best for understanding the needs of the poor. 
 
