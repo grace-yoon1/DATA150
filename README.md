@@ -30,7 +30,7 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 ### Formal Writing Assignments
 
-- [Annotated Bibliography]()
+- [Annotated Bibliography](AnnotatedBibliography.md)
 
 - [Literature Review]()
 
