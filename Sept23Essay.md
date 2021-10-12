@@ -1,7 +1,9 @@
 [Back to Home Page](https://grace-yoon1.github.io/DATA150/)
 
-### **Development and Evolving Solutions In Class Essay**
+### **In Class Essay**
 ##### September 23, 2021
+
+### Development and Evolving Solutions
 
 Human development has been described by Selim Jahan (head of the UNDP program) as “development of the people (capital), for the people (translated to the lives of people) and by the people (people are not only receiving but active participant in the process).” How have we done as a humanity to fulfill this hope originally manifested through the Gettysburg address? Does data science have a role to play in advancing the human condition? What role does complexity play in advancing our understanding of global human development processes and their multitude of dimensions? In order to predict valuable solutions to some of the world’s most intractable problems, will combined domain expertise from the perspective of computer science & statistics with global human development be sufficient, or is a new integrated paradigm needed? What hope do we have in selecting the best future path for humanity? 
 
