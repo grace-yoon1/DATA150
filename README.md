@@ -20,7 +20,7 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [Owen Barder](Barder.md)
 
-- [9/23 Development and Evovling Solutions](Sept23Essay.md)
+- [9/23 Development and Evolving Solutions](Sept23Essay.md)
 
 - [9/28 Class Essay](Sept28Essay.md)
 
