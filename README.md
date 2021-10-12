@@ -28,6 +28,8 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [10/7 Class Essay](Oct7Essay.md)
 
+- [10/12 BRI Class Essay](BRI.md)
+
 ---
 
 ### Formal Writing Assignments
