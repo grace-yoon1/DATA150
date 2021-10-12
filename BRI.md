@@ -1,5 +1,10 @@
-https://www.wsj.com/articles/hidden-debt-plagues-chinas-belt-and-road-infrastructure-plan-studies-find-11632866461
 
+[Back to Home Page](https://grace-yoon1.github.io/DATA150/)
+
+### **In Class Essay**
+##### October 12, 2021
+
+### [The Belt and Road Initiative](https://www.wsj.com/articles/hidden-debt-plagues-chinas-belt-and-road-infrastructure-plan-studies-find-11632866461)
 
 10/12 Essay: Read this press article on the Belt and Road Initiative (BRI), a Chinese global infrastructure development plan. What are your thoughts, or more saliently, what questions do you have or what would you want to know/learn more about? What responsibilities do you think the international community should have (if any) on such matters?
 
