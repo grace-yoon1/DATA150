@@ -14,23 +14,23 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [Getting Started with R & RStudio](1.4.md)
 
-- [Joshua Blumenstock](Blumenstock.md)
+- [9/7 - Joshua Blumenstock](Blumenstock.md)
 
-- [Hans Rosling](Rosling.md)
+- [9/9 - Hans Rosling](Rosling.md)
 
-- [Owen Barder](Barder.md)
+- [9/21 - Owen Barder](Barder.md)
 
-- [9/23 Development and Evolving Solutions](Sept23Essay.md)
+- [9/23 - Gettysburg Address & Human Dev](Sept23Essay.md)
 
-- [9/28 Class Essay](Sept28Essay.md)
+- [9/28 - Personal Statement](Sept28Essay.md)
 
-- [9/30 Gapminder Essay](Sept30Gapminder.md)
+- [9/30 - Gapminder](Sept30Gapminder.md)
 
-- [10/7 Class Essay](Oct7Essay.md)
+- [10/7 - Our World in Data](Oct7Essay.md)
 
-- [10/12 BRI Class Essay](BRI.md)
+- [10/12 - China BRI](BRI.md)
 
-- [10/21 Abundance Essay](Oct21Essay.md)
+- [10/21 - Data on Abundance](Oct21Essay.md)
 
 ---
 
