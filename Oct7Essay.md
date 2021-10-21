@@ -4,7 +4,7 @@
 ### **In Class Essay**
 ##### October 7, 2021
 
-### [Life Expectancy](https://ourworldindata.org/life-expectancy)
+### [Our World in Data - Life Expectancy](https://ourworldindata.org/life-expectancy)
 
 10/7 Essay: I want to introduce you to another source of sociology-focused data: Our World in Data, founded by Max Roser. Select a topic you are curious about from the dropdown "Articles by topic". If the topic is lengthy, you can pick just a graph or two.
 
