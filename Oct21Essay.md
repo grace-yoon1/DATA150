@@ -4,7 +4,7 @@
 ### **In Class Essay**
 ##### October 21, 2021
 
-### [Abundance](https://www.diamandis.com/data)
+### [Data on Abundance](https://www.diamandis.com/data)
 
 10/21 Essay: After Dan's lecture, I would like to reinstall a bit of empirical optimism regarding the progress of humanity. Despite the very real difficulties data scientists, humanitarians, developers, and other leaders face, progress is being made over large time scales. Go to this website (a supplement to Peter Diamandis's 2012 book "Abundance") which illustrates various forms of progress across multiple dimensions of human well-being. Pick a topic heading. Write a description of each of the trends you see, i.e., for each figure. Do you think each trend actually represents progress? If not, why do you think? Finally, with Dan and Amartya Sen in mind, what do you think could be barriers to progress in each topic? (another way to think about this is: why do you think progress hasn't occurred even more rapidly?)
 
