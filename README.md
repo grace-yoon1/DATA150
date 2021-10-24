@@ -38,7 +38,7 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [Annotated Bibliography](AnnotatedBibliography.md)
 
-- [Literature Review]()
+- [Literature Review](LitReview.md)
 
 - [Methodological Investigation]()
 
