@@ -16,7 +16,7 @@ Word count: 2545
 
 ---
 
-### Introduction to Solving the Poverty Crisis in India through Geospatial and Satellite Data
+#### Introduction to Solving the Poverty Crisis in India through Geospatial and Satellite Data
 
 Poverty is a significant harm to countries all over the world. It causes millions of humans to face challenges like poor health and untenable living conditions. They are unable to fulfill their basic needs and capabilities to survive due to the lack of resources, goods, and services (Fashridjal). To reduce the amount of poverty in the world, researchers have tried numerous approaches, however, the issue is not knowing exactly where in these countries that individuals suffer from poverty the most. Without knowing these areas of poverty, development in these countries is slowed down, not allowing them to attain the freedoms to allow them to thrive. To find specific areas of poverty, data science methods using geospatial and satellite data can be used to spatially target and estimate poverty in these underdeveloped countries (Bill and Melinda Gates Foundation, World). 
 
@@ -24,7 +24,7 @@ In Amartya Sen’s “Development as Freedom,” Sen discusses how analyzing and
 
 ---
 
-### Poverty from a Global Perspective
+#### Poverty from a Global Perspective
 
 Poverty is the scarcity of necessary resources in order to fulfill needs and capabilities. Lack of food, shelter, and clothing contributes to issues of healthcare, security, and education (Das). Unsurprisingly, poverty is in areas with larger populations that lack enough resources to gain financial security. While there have been attempts to diminish poverty on a global scale, most have been unsuccessful in these underdeveloped areas (Fashridjal). To further grow and sustain the globe, it is important to eradicate poverty. Alleviating poverty is the United Nation’s number one goal for developing countries. To achieve this solution, an exact poverty map is needed. In the developing world, there is a barrier to this goal due to unreliable and ineffective data collection. However, there is an alternative approach: mapping poverty using high-resolution satellite imagery along with survey data (Das). 
 
@@ -34,7 +34,7 @@ Data is essential to understanding a population’s situation to make the best i
 
 ---
 
-### Why India?
+#### Why India?
 
 I chose India because it is a large country by both population and size, it is made up mostly of rural areas, and it suffers from high levels of poverty. In undeveloped countries like India, the people suffer complex challenges such as no access to health care, safe drinking water, and adequate food. Millions of people in India live on less than $1.90 per day with an unreliable income source, which is not enough to experience human freedoms from development and growth. It is challenging to map poverty in countries with large populations over a large area of land, making India an interesting case study as a country with these attributes. Surveys and other non data science poverty predicting methods wouldn’t be as effective for large developing countries, which is why I chose to explore geospatial data science methods to assess and analyze poverty in India. 
 
@@ -44,13 +44,13 @@ To measure poverty in India, some have used methodologies of estimation based on
 
 ---
 
-### Combining Satellite Imagery and Machine Learning to Analyze Poverty
+#### Combining Satellite Imagery and Machine Learning to Analyze Poverty
 
 Reliable data is scarce in undeveloped countries, so methods like using high-resolution satellite imagery can be used to attain accurate data. A convolutional neural network (CNN) is a model that can be used to identify and analyze variation patterns in these images. Using a CNN is critical for obtaining accurate measurements of poverty to make decisions about providing resources to areas that need it. Over the years, data in developing countries have improved, but it is still lacking, making it difficult to identify and analyze target populations in need. Traditional data collection methods like surveys to close these data gaps are expensive and difficult. Instead, sources of passively collected data from satellites can be a better option. A popular approach is using satellite images of nightlights to estimate poverty (Jean). In impoverished countries, luminosity levels are lower because there is less infrastructure in those rural areas, while big cities are “bathed in light at night” and have a higher standard of living because they are generally more developed (Elvidge). Elvidge, and several other researchers, have developed a measurement of human development called “Night Light Development Index (NLDI)” by using nighttime satellite images and population density from gridded population data (Elvidge). In their study, they have found an interesting pattern from NLDI. The data points for extremely poor countries are pressed along the population count and have no spread on the brightness axis. In more developed countries with smaller populations, the data cloud is in a circular shape pressed against both the population count and the brightness of the lights in satellite images. Extracting and comparing patterns from data plots like these can determine the development level of countries (Elvidge). High-resolution satellite imagery is very effective because of how accessible and useful it is in producing predictions of economic activity. By training a CNN on ImageNet, it can learn how to classify 1000 different objects. With the CNN, it can pick up other features in the satellite images such as bodies of water, roads, etc. Overall, this powerful machine learning approach of extracting data from nighttime satellite images and comparing the data points on scattergrams is a very effective approach to predicting poverty (Jean).
 
 ---
 
-### The Research/Data Science Methods
+#### The Research/Data Science Methods
 
 There are several data science methods that I have found to be significant and interesting in assessing and analyzing poverty in areas like India. To predict and understand poverty on a geographic level, neural networks can be used in conjunction with geospatial datasets to produce accurate assessments for even the most rural areas. Identifying these impoverished areas is difficult which causes these populations to lack “money, food, medicine, and access to education” (Kumar). There are many resources being produced for billions of people, yet due to the difficulty of understanding and identifying these countries, many still suffer in poverty. To alleviate poverty, data science strategies like creating computer vision models allow us to provide resources and predict poverty in countries. The article, “How to Understand Global Poverty from Outer Space,” discusses five key steps to approaching global poverty (Kumar). The author discusses a method to predict poverty using a convolutional neural network and uses daytime and nighttime satellite images to analyze certain areas in order to improve policy initiatives and alleviate poverty. The first step is to download Demographic and Health Surveys (DHS), nightlight satellite imagery, and daytime satellite imagery. The article discusses downloading data and constructing clusters to gain a better understanding and measurement for “health, population, and nutrition” (Kumar). They used the Google Maps Platform to obtain daytime images that have features of landscape and activity. Then, the next step is to test whether nightlights can predict wealth accurately. From the data collected, the DHS and nightlights data is merged to see if nightlights data can be used for predicting poverty. The author explains how creating this visualization that highlights certain areas of the satellite imagery shows that nightlight luminosity is a strong predictor of wealth. After, extracted features of the daytime imagery are tested to see if they can also predict wealth accurately. Daytime imagery can be a valuable tool as well and when merged with the DHS data, “a model of wealth as a function of these basic daytime features [can be] fitted” (Kumar). Next, a convolutional neural network is constructed to leverage a combined dataset of daytime and nighttime images. A transfer learning approach using a convolutional neural network estimates nightlight intensities, repurposes the model, and obtains final feature vectors. Lastly, maps are constructed to show the predicted distributions of wealth. In conclusion, an approach to predict poverty in areas is to use convolutional neural networks with daytime and nighttime satellite imagery with survey data. Analyzing the data from this is scalable and inexpensive, hence why the author plans to expand this for more countries (Kumar). This article relates to Amartya Sen’s definition of human development the author discusses how using data science can lead a population towards freedom. From using convolutional neural networks and satellite imagery, more information can be obtained to understand those suffering from the unfreedom of poverty. With a greater understanding of these areas, it becomes far more feasible to help these individuals deprived of basic capabilities out of poverty and expand their ability to live freely (Sen).
 
@@ -60,13 +60,13 @@ Lastly, another method I find significant is high-resolution poverty mapping fro
 
 ---
 
-### Conclusion
+#### Conclusion
 
 Methods to alleviate poverty around the world are described in all of the articles I’ve researched. From using traditional methods such as data collection from surveys to utilizing technology, such as CNNs, to explore data, there is one common objective: to eliminate poverty. I’ve learned that this can be achieved through observing poverty maps from satellite imagery data. Satellite data can be used to obtain information and create spatial datasets for poverty status in developing countries. It is important to use this effective approach frequently to track poverty accurately over time and provide the necessary resources in areas that need it, in order to live a life with basic capabilities, freedoms, and opportunities. There is a gap in the literature that I would like to address. All of the articles studied zoomed out satellite images of vast areas of land to predict and assess poverty in a country. I would like to know if the same approach could be applied with taking satellite imagery at neighborhood levels to estimate poverty. I am interested in exploring more from the analysis and research I’ve done in poverty in developing countries like India. My central research question is: Can poverty be mapped and estimated accurately from satellite imagery at a closer neighborhood-level resolution to obtain more refined and precise predictions?
 
 ---
 
-### Citations
+#### Citations
 
 Bill and Melinda Gates Foundation. “High Resolution Poverty Mapping from Cell Phone and Satellite Data.” WorldPop, https://www.worldpop.org/portfolio/project?id=23. Accessed 2 Oct. 2021. 
 
