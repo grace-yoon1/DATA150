@@ -1,4 +1,9 @@
+[Back to Home Page](https://grace-yoon1.github.io/DATA150/)
 
+### **In Class Essay**
+##### October 28, 2021
+
+### [What is Data Science? - Jeff Hale](https://towardsdatascience.com/what-is-data-science-8c8fbaef1d37)
 
 10/28 Essay: To give you a better idea of what data science is and how it compares to other areas in the world of work read this 10-15 min article. Taxonomically, in academia, data science is a subfield of computer science. Personally, I see data science as a tool or a set of tools and methods that a researcher or practitioner of data science applies to data in a particular domain.  This combination is their "craft", in essence. I, for example, apply data science to geography in the context of international development. This means I use tools such as machine learning on data such as satellite imagery to help solve problems in the international development community. Data science is a domain that can be surprisingly hard to define given its broad applications and newness. I don't necessarily think there's one correct definition and, whatever it is, the field will continue to evolve with new technologies, new industries, and/or new issues. There's also a question of skill ranges. Should the title of "data scientist" be reserved for those with doctoral degrees in the same way it is in physics, for example, and anyone below that is basically something else (like an analyst)?
 
