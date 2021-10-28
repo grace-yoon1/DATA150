@@ -32,6 +32,8 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [10/21 - Data on Abundance](Oct21Essay.md)
 
+- [10/28 - What is Data Science?](Oct28Essay.md)
+
 ---
 
 ### Formal Writing Assignments
