@@ -1,3 +1,10 @@
+[Back to Home Page](https://grace-yoon1.github.io/DATA150/)
+
+### **In Class Essay**
+##### November 2, 2021
+
+### Human Development Index (HDI)
+
 11/2 Essay: Since this is a course on human development, I think you should be aware there exists a "Human Development Index (HDI)". This index attempts to quantify the level of human development of a country. It was developed by Pakistani economist Mahbub ul Haq and Indian Nobel laureate Amartya Sen. The United Nations Development Programme (UNDP) compiles the HDI of 189 countries in their annual Human Development Report. You can see the latest rankings here. It attempts to place people at the center of the development process in terms of economic debate, policy, and advocacy, and is framed in terms of whether people are able to "be" and "do" desirable things in life. The indicators used in the 2020 report were life expectancy at birth, expected years of schooling for children, mean years of schooling for adults, and gross national income per capita. These indicators are used to create a health index, an education index, and an income index, each with a value between 0 and 1. Read this for an overview.
 
 Do you think additional information or data could be added to the HDI calculation to possibly improve it or make it a more accurate measurement of human development? If yes, what things? If no, why no? Keep in mind the conversation with Tyler Cowen.
