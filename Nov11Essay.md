@@ -1,5 +1,9 @@
+[Back to Home Page](https://grace-yoon1.github.io/DATA150/)
 
-[](https://penntoday.upenn.edu/news/role-data-world-reshaped-covid-19)
+### **In Class Essay**
+##### November 11, 2021
+
+### [The role of data in a world reshaped by COVID-19](https://penntoday.upenn.edu/news/role-data-world-reshaped-covid-19)
 
 11/11 Essay: Read this October 2020 article from UPenn that's a set of statements by faculty from a broad array of fields on the ways in which data and data science are contributing to or affecting their field with respect to COVID and the pandemic (hat tip to Rhea).
 Write 1-2 paragraphs on the following: From what you know about your prospective major, what is a permanent or semi-permanent way the pandemic has affected your field of study or an aspect of culture or society related to your field? Do you believe the change is net-positive or negative for society and why? What recommendations (if any) would you have for your field moving forward on the issue? For example, if you're a prospective business major, what are your thoughts on remote work and the use of office spaces and how businesses could think about "where" to work moving forward? Or, if you're a prospective psychology or sociology major, how has the virus and pandemic changed how people and societies view and react to germs?
