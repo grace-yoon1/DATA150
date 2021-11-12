@@ -40,6 +40,8 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [11/9 - Facial Recognition Technology](Nov9Essay.md)
 
+- [11/11 - ](Nov11Essay.md)
+
 ---
 
 ### Formal Writing Assignments
