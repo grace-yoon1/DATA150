@@ -40,9 +40,9 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [11/9 - Facial Recognition Technology](Nov9Essay.md)
 
-- [11/11 - Data and COVID-19](Nov11Essay.md)
+- [11/11 - Data and COVID-19 Effects](Nov11Essay.md)
 
-- [11/16 - Self-Driving Cars](Nov16Essay.md)
+- [11/16 - Self-Driving Vehicles](Nov16Essay.md)
 
 ---
 
