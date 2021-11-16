@@ -3,7 +3,7 @@
 ### **In Class Essay**
 ##### November 16, 2021
 
-(https://medium.com/@feiqi9047/the-data-science-behind-self-driving-cars-eb7d0579c80b)
+### [The Data Science Behind Self-Driving Cars](https://medium.com/@feiqi9047/the-data-science-behind-self-driving-cars-eb7d0579c80b)
 
 11/16 Essay (last one): Read the ~8-minute article "The Data Science Behind Self-Driving Cars" (hat tip to Connor). In 1-2 paragraphs, write what you think (or know) are the broad implications for society from the development and adoption of self-driving vehicle technology. What are the positive aspects, the not so positive, and the important considerations (e.g., ethical)? 
 
