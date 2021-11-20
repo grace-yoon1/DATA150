@@ -30,13 +30,13 @@ In Amartya Sen’s “Development as Freedom,” Sen discusses how analyzing and
 
 Poverty is the scarcity of necessary resources in order to fulfill needs and capabilities. Lack of food, shelter, and clothing contributes to issues of healthcare, security, and education (Das). Unsurprisingly, poverty is in areas with larger populations that lack enough resources to gain financial security. To eradicate poverty, an exact poverty map is needed. In the developing world, there is a barrier to this goal due to unreliable and ineffective data collection. However, there is an alternative approach: mapping poverty using high-resolution satellite imagery along with survey data (Das). 
 
-<img align="middle" alt="drawing" src="SatelliteImageChart.png" width="30%" height="30%">
+<img align="left" alt="drawing" src="SatelliteImageChart.png" width="30%" height="30%">
 
 In this figure, the utilization of daytime satellite imagery vs. night time lights data is shown. This distribution of satellite imagery data displays that night time lights data is used significantly more for applications like poverty mapping. The Progress out of Poverty Index (PPI) can be used to create poverty maps that display the chance of individuals living in poverty for large geographic areas, such as those in India. It uses geolocated survey data and geospatial datasets to predict spatial poverty, which can be used to better understand where these areas are in order to further develop them (Bill and Melinda Gates Foundation, World). 
 
 Data is essential to understanding a population’s situation to make the best informed decision in “resource allocation, poverty alleviation programs, and policies” (Bill and Melinda Gates Foundation. “High). Geospatial datasets and patterns of poverty have been built from census data, however, those datasets have been inaccurate due to irregular or unavailable data in these low-income areas (Bill and Melinda Gates Foundation. “High). Therefore, powerful machine learning techniques like poverty mapping allow us to understand complex human development problems from accurate data and reach the sustainable goal of locating areas in need, providing them freedoms in order to develop as a whole (Das).
 
-<img align="left" alt="drawing" src="PredictionMap.png" width="40%" height="40%">
+<img align="middle" alt="drawing" src="PredictionMap.png" width="40%" height="40%">
 
 In this figure, the authors provided a national level prediction map in Bangladesh using mobile phone operators and other data to closely access areas in poverty. The wealth index is color-coded, having areas in red shown as poorer areas. From these models, the spatial relationships in the data of these areas can be used to understand and update these maps, which is important for analyzing poorer areas to alleviate poverty (Bill and Melinda Gates Foundation. “High).
 
