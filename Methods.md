@@ -70,11 +70,11 @@ Overall, this powerful machine learning approach of extracting data from nightti
 
 There are several data science methods that I have found to be significant and interesting in assessing and analyzing poverty in areas like India. To alleviate poverty, data science strategies like creating computer vision models allow us to provide resources and predict poverty in countries. The article, “How to Understand Global Poverty from Outer Space,” discusses five key steps to approaching global poverty (Kumar). The author discusses a method to predict poverty using a CNN and uses daytime and nighttime satellite images to analyze certain areas in order to improve policy initiatives and alleviate poverty. The first step is to download Demographic and Health Surveys (DHS), nightlight satellite imagery, and daytime satellite imagery. The article discusses downloading data and constructing clusters to gain a better understanding and measurement for “health, population, and nutrition” (Kumar). 
 
-<img align="middle" alt="drawing" src="DaytimeImage.png" width="60%" height="60%">
+<img align="middle" alt="drawing" src="DaytimeImage.png" width="80%" height="80%">
 
 They used the Google Maps Platform to obtain daytime images that have features of landscape and activity. Then, the next step is to test whether nightlights can predict wealth accurately. 
 
-<img align="middle" alt="drawing" src="Cluster.png" width="60%" height="60%">
+<img align="middle" alt="drawing" src="Cluster.png" width="100%" height="100%">
 
 From the data collected, the DHS and nightlights data is merged to see if nightlights data can be used for predicting poverty. The author explains how creating this visualization shows that nightlight luminosity is a strong predictor of wealth. After, extracted features of the daytime imagery are tested. Daytime imagery can be a valuable tool as well and when merged with the DHS data, “a model of wealth as a function of these basic daytime features [can be] fitted” (Kumar). Next, a CNN is constructed to leverage a combined dataset of daytime and nighttime images. Lastly, maps are constructed to show the predicted distributions of wealth. In conclusion, an approach to predict poverty in areas is to use CNN with daytime and nighttime satellite imagery with survey data, which analyzes data in a scalable and inexpensive way (Kumar). 
 
