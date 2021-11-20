@@ -46,19 +46,19 @@ In this figure, the authors provided a national level prediction map in Banglade
 
 Reliable data is scarce in undeveloped countries, so methods like using high-resolution satellite imagery can be used to attain accurate data. A CNN is a model that can be used to identify and analyze variation patterns in these images. Using a CNN is critical for obtaining accurate measurements of poverty to make decisions about providing resources to areas that need it. CNNs know how to turn images into numerical values, which can be used to predict poverty. 
 
-![](CNNformula.png)
+<img align="middle" alt="drawing" src="CNNformula.png" width="50%" height="50%">
 
 This formula is an example of how a CNN can take an image as an input and transform it into numerical values to predict a target.
 
 Over the years, data in developing countries have improved, but it is still lacking, making it difficult to identify and analyze target populations in need. Sources of passively collected data from satellites can be a better option. A popular approach is using satellite images of nightlights to estimate poverty (Jean). 
 
-![CNNfigure.png]()INSERT IMAGE HERE LAKSDJFLKSADFLSADKJFLDSK
+<img align="middle" alt="drawing" src="CNNfigure.png" width="50%" height="50%">
 
 In this figure, four different convolutional filters in CNNs have areas that activate it highlighted in pink. The top row has daytime satellite images, the second row contains filter activation maps, and both layered on top of each other are shown in the third row. The activation areas in this figure detects features from CNNs as roads, bodies of water, and infrastructure (Jean).
 
 In impoverished countries, luminosity levels are lower because there is less infrastructure in those rural areas, while big cities are “bathed in light at night” and have a higher standard of living because they are generally more developed (Elvidge). Elvidge, and several other researchers, have developed a measurement of human development called “Night Light Development Index (NLDI)” by using nighttime satellite images and population density from gridded population data (Elvidge). In their study, they have found an interesting pattern from NLDI. The data points for extremely poor countries are pressed along the population count and have no spread on the brightness axis. In more developed countries with smaller populations, the data cloud is in a circular shape pressed against both the population count and the brightness of the lights in satellite images. Extracting and comparing patterns from data plots like these can determine the development level of countries (Elvidge). 
 
-![](NLDI.png)
+<img align="middle" alt="drawing" src="NLDI.png" width="50%" height="50%">
 
 In this figure, a line of best fit is shown with the formula and correlation level. It shows that there is a strong correlation between the level of night time lights in satellite imagery and poverty rate (Elvidge).
 
@@ -70,11 +70,11 @@ Overall, this powerful machine learning approach of extracting data from nightti
 
 There are several data science methods that I have found to be significant and interesting in assessing and analyzing poverty in areas like India. To alleviate poverty, data science strategies like creating computer vision models allow us to provide resources and predict poverty in countries. The article, “How to Understand Global Poverty from Outer Space,” discusses five key steps to approaching global poverty (Kumar). The author discusses a method to predict poverty using a CNN and uses daytime and nighttime satellite images to analyze certain areas in order to improve policy initiatives and alleviate poverty. The first step is to download Demographic and Health Surveys (DHS), nightlight satellite imagery, and daytime satellite imagery. The article discusses downloading data and constructing clusters to gain a better understanding and measurement for “health, population, and nutrition” (Kumar). 
 
-![](DaytimeImage.png)
+<img align="middle" alt="drawing" src="DaytimeImage.png" width="50%" height="50%">
 
 They used the Google Maps Platform to obtain daytime images that have features of landscape and activity. Then, the next step is to test whether nightlights can predict wealth accurately. 
 
-![](Cluster.png)
+<img align="middle" alt="drawing" src="Cluster.png" width="50%" height="50%">
 
 From the data collected, the DHS and nightlights data is merged to see if nightlights data can be used for predicting poverty. The author explains how creating this visualization shows that nightlight luminosity is a strong predictor of wealth. After, extracted features of the daytime imagery are tested. Daytime imagery can be a valuable tool as well and when merged with the DHS data, “a model of wealth as a function of these basic daytime features [can be] fitted” (Kumar). Next, a CNN is constructed to leverage a combined dataset of daytime and nighttime images. Lastly, maps are constructed to show the predicted distributions of wealth. In conclusion, an approach to predict poverty in areas is to use CNN with daytime and nighttime satellite imagery with survey data, which analyzes data in a scalable and inexpensive way (Kumar). 
 
