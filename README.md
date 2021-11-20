@@ -10,6 +10,20 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 ---
 
+### Formal Writing Assignments
+
+- [Annotated Bibliography](AnnotatedBibliography.md)
+
+- [Literature Review](LitReview.md)
+
+- [Methodological Investigation](Methods.md)
+
+- [Presentation]()
+
+- [Research Proposal]()
+
+---
+
 ### Informal Responses
 
 - [Getting Started with R & RStudio](1.4.md)
@@ -43,17 +57,3 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 - [11/11 - Data and COVID-19 Effects](Nov11Essay.md)
 
 - [11/16 - Self-Driving Vehicles](Nov16Essay.md)
-
----
-
-### Formal Writing Assignments
-
-- [Annotated Bibliography](AnnotatedBibliography.md)
-
-- [Literature Review](LitReview.md)
-
-- [Methodological Investigation](Methods.md)
-
-- [Presentation]()
-
-- [Research Proposal]()
