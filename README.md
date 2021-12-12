@@ -20,7 +20,7 @@ My name is Grace Yoon and I am from Fairfax, VA. I am a freshman student at Will
 
 - [Presentation](Assignment4.md)
 
-- [Research Proposal]()
+- [Research Proposal](Final.md)
 
 ---
 
